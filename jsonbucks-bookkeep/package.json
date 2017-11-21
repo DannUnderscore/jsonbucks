@@ -1,0 +1,9 @@
+{
+  "name": "jsonbucks-bookkeep",
+  "version": "0.0.1",
+  "main": "lib/main",
+  "dependencies": {
+    "commander": "^2.11.0",
+    "express": "^4.16.2"
+  }
+}
